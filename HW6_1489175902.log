@@ -1,0 +1,28 @@
+2017-03-10 11:58:22 INFO::Run Time - 0:1:54.582
+2017-03-10 11:58:22 INFO::#######################################
+2017-03-10 11:58:22 INFO::###   Final Project Data Science 350
+2017-03-10 11:58:22 INFO::###   Predicting Hourly Sales based on previous player behaviour for Empire Z mobile app
+2017-03-10 11:58:22 INFO::###   By Sam Robinson
+2017-03-10 11:58:22 INFO::#######################################
+2017-03-10 11:58:22 INFO::
+2017-03-10 11:58:22 INFO::Unit Testing import and clean function
+2017-03-10 11:58:22 INFO::Test importing and cleaning data
+2017-03-10 11:58:22 INFO::Cleaning data table
+2017-03-10 11:58:22 INFO::Finish unit import and clean unit test
+2017-03-10 11:58:23 INFO::Cleaning data table
+2017-03-10 11:58:23 INFO::Unit testing creating arma data
+2017-03-10 11:58:23 INFO::Testing arma data creation
+2017-03-10 11:58:23 INFO::Cleaning data table
+2017-03-10 11:58:23 INFO::Creating ARMA table
+2017-03-10 11:58:23 INFO::Cleaning out non-predictive sale values
+2017-03-10 11:58:23 INFO::Finish arma data creation unit test
+2017-03-10 11:58:23 INFO::Creating ARMA table
+2017-03-10 11:58:28 INFO::Cleaning out non-predictive sale values
+2017-03-10 11:58:29 INFO::Run Time - 0:0:6.82299999999999
+2017-03-10 12:32:42 INFO::Run Time - 0:34:19.5930000000003
+2017-03-10 12:33:04 INFO::Final adjusted rsquared value:0.999822258186455
+2017-03-10 12:33:04 INFO::Final RSME Value: 0.0446491888481165
+2017-03-10 12:33:04 INFO::Final median residuals-0.000717021551504995
+2017-03-10 12:33:04 INFO::Best AIC Value: -36505.0108903154
+2017-03-10 12:33:04 INFO::finished running script
+2017-03-10 12:33:04 INFO::Run Time - 0:34:41.6370000000002
